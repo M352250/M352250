@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm John Manro B. Clemente</h1>
-<h3 align="center">A Information Technology Student from the Philippines</h3>
+<h3 align="center">A BS Information Technology Student</h3>
 
 - 📫 How to reach me **manro.clementee@gmail.com**
 
-- ⚡ Fun fact **I like playing game's, Reading books & Video editing.**
+- ⚡ Fun fact **I like playing video games, Reading books & Video editing.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
